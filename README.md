@@ -1,1 +1,2 @@
 # RSChat
+Documentation à venir
