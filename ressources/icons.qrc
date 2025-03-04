@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/icones">
+        <file>comment.png</file>
+        <file>download.png</file>
+        <file>led-bulb.png</file>
+        <file>redbulb.png</file>
+        <file>send-message.png</file>
+        <file>vga.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
