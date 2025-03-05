@@ -7,14 +7,12 @@
 
 #include "widget.h"
 #include "ui_widget.h"
-#include <qtmaterialcheckbox.h>
 
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::Widget)
 {
     ui->setupUi(this);
-    auto a= new QtMaterialCheckBox();
     this->setFixedSize(340,309);
     ui->boutonFermer->setDisabled(true);
     ui->boutonEnvoyer->setDisabled(true);

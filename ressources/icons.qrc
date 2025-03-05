@@ -1,11 +1,13 @@
 <RCC>
-    <qresource prefix="/new/icones">
-        <file>comment.png</file>
-        <file>download.png</file>
-        <file>led-bulb.png</file>
-        <file>redbulb.png</file>
-        <file>send-message.png</file>
-        <file>vga.png</file>
-        <file>close.png</file>
+    <qresource prefix="/">
+        <file>icons/close.png</file>
+        <file>icons/comment.png</file>
+        <file>icons/download.png</file>
+        <file>icons/led-bulb.png</file>
+        <file>icons/redbulb.png</file>
+        <file>icons/send-message.png</file>
+        <file>icons/vga.png</file>
+        <!-- Ajoutez ici tous vos autres fichiers d'images -->
     </qresource>
 </RCC>
+
