@@ -1,2 +1,2 @@
 # RSChat
-Documentation à venir
+Chat par liason série écrit en C++
